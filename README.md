@@ -9,4 +9,4 @@ Cup of tea?🍵？welcome to my personal website👆👆
 ## Social media📱
 -  View my best website project🕸️ [Awwwrads](https://www.awwwards.com/jiejoe)
 -  View my video homepage📻️ [Bilibili](https://space.bilibili.com/3546390319860710)
--  View my Web courses📕 [JIEJOE'S WEB-Tutorial](https://github.com/JIEJOE-S-WEB-Courses) **<<— 来找前端教程的小伙伴点这里**
+-  View my Web courses📕 [JIEJOE'S WEB-Tutorial](https://github.com/JIEJOE-WEB-Tutorial) **<<— 来找前端教程的小伙伴点这里**
